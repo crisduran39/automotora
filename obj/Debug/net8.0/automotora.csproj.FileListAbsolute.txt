@@ -1,0 +1,14 @@
+C:\Users\CRISTIAN\source\repos\automotora\automotora\bin\Debug\net8.0\automotora.exe
+C:\Users\CRISTIAN\source\repos\automotora\automotora\bin\Debug\net8.0\automotora.deps.json
+C:\Users\CRISTIAN\source\repos\automotora\automotora\bin\Debug\net8.0\automotora.runtimeconfig.json
+C:\Users\CRISTIAN\source\repos\automotora\automotora\bin\Debug\net8.0\automotora.dll
+C:\Users\CRISTIAN\source\repos\automotora\automotora\bin\Debug\net8.0\automotora.pdb
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.AssemblyInfo.cs
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.dll
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\refint\automotora.dll
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.pdb
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\automotora.genruntimeconfig.cache
+C:\Users\CRISTIAN\source\repos\automotora\automotora\obj\Debug\net8.0\ref\automotora.dll
